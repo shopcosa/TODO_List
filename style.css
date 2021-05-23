@@ -1,0 +1,14 @@
+body {
+  font-family: "Poppins";
+  font-size: 1.2em;
+}
+
+ol {
+  list-style: decimal;
+}
+
+#item-input,
+#item-submit {
+  font-family: "Poppins";
+  font-size: 1.2rem;
+}
